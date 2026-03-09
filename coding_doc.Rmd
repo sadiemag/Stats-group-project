@@ -1,0 +1,7 @@
+---
+title: "coding doc"
+output: html_document
+---
+
+print("hello")
+
